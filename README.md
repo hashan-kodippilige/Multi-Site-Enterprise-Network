@@ -64,3 +64,5 @@ Designed and implemented a multi-site enterprise network connecting two company 
 ## Author
 
 Hashan Kodippilige
+Master of Science in Cybersecurity
+Minnesota State University Moorhead
